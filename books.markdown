@@ -4,7 +4,6 @@ title: Reading List
 permalink: /books/
 ---
 
-#Reading List
 The books that I'm currently reading for fun and profit and wisdom.
 
 * _Notes From a Big Country_, Bill Bryson
@@ -24,5 +23,6 @@ Asterisks indicate that I have not finished the book.
 * _Clojure for the Brave and True_, Daniel Higginbotham
 * _The Pragmatic Programmer_, David Thomas and Andrew Hunt
 * _The Evolution of God_*, Robert Wright
+* _A Guide to the Good Life_, William B. Irvine
 
 
