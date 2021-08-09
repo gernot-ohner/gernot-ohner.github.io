@@ -4,7 +4,7 @@ title: Reading List
 permalink: /books/
 ---
 
-The books that I'm currently reading for fun and profit and wisdom.
+The books that I'm currently reading.
 
 * _Notes From a Big Country_, Bill Bryson
 * _Letters from a Stoic_, Lucius Annaeus Seneca 
