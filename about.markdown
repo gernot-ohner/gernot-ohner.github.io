@@ -31,11 +31,12 @@ January 2013 - September 2016
 **BS, Physics**  
 Graz University of Technology (TU Graz)  
 October 2014 - April 2018
-- Bachelors thesis on Finite Difference Time Domain (FDTD) electrodynamics simulations
+- Bachelors thesis on Finite Difference Time Domain (FDTD) electrodynamics simulations, 
+  further explained here: [Projects](projects.markdown)
 - Additionally took 10 courses from the MS Computer Science at TU Graz, including:
   - Discrete Stochastics and Information Theory
   - Computer Science I
-  - Datastructures and Algorithms
+  - Data Structures and Algorithms
   - Optimization for Computer Science
   - Logic and Computability
   - Neural Networks
