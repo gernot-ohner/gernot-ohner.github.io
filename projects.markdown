@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### FDTD simulation 
-For my bachelors thesis in physics, I investigated FDTD simulations using Python
+For my [bachelor thesis](resources/Ohner_FDTD_Bachelorarbeit.pdf) in physics, I investigated FDTD simulations using Python
 
 > The finite difference time domain method, in short FDTD, is used to numerically compute
 the propagation of electromagnetic waves, that is, to solve the Maxwell equations for arbitrary
