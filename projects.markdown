@@ -11,7 +11,7 @@ For my [bachelor thesis](resources/Ohner_FDTD_Bachelorarbeit.pdf) in physics, I 
 the propagation of electromagnetic waves, that is, to solve the Maxwell equations for arbitrary
 environments.
 
-<img src="./resources/fdtd1.png" alt="FDTD simulation with various features of low/high permittivity, taken from Ohner 2018" width="640"/>
+![FDTD simulation with various features of low/high permittivity](resources/fdtd1.png)
 
 This is a sample image of a FDTD simulation in 2 dimensions.
 Features of note:   
@@ -21,7 +21,7 @@ Features of note:
 - an area of perfect conductivity in the bottom right corner
 - an absorbing boundary (otherwise, the limits of the simulation act like perfect reflectors, c.f. the following image)  
 
-<img src="resources/abc_explanation_1d.png" alt="Comparison of 1d simulations with and without absorbing boundary conditions, taken from Ohner 2018" width="640"/>
+![Comparison of 1d simulations with and without absorbing boundary conditions, taken from Ohner 2018](resources/abc_explanation_1d.png)
 
 Built with: Python (mostly NumPy and matplotlib)
 
