@@ -24,5 +24,6 @@ Features of note:
 ![Comparison of 1d simulations with and without absorbing boundary conditions, taken from Ohner 2018](resources/abc_explanation_1d.png)
 
 Built with: Python (mostly NumPy and matplotlib)
+Github: https://github.com/gernot-ohner/fdtd
 
 
